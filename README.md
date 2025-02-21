@@ -4,9 +4,6 @@
 
 M5Stack Module-LLM(ax630c)
 
-
-![image](https://github.com/user-attachments/assets/cff26ecc-888c-4806-a5dd-9600aa671eff)
-
 | モデル | Billion | token/s | NPU Memory(MB) |
 |-------|---------|---------|----------------|
 | qwen2.5-0.5B | 0.5 | 11.17 | 524 |
