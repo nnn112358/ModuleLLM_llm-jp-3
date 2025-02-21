@@ -2,6 +2,24 @@
 
 ## Result
 
+M5Stack Module-LLM(ax630c)
+
+
+![image](https://github.com/user-attachments/assets/cff26ecc-888c-4806-a5dd-9600aa671eff)
+
+| モデル | Billion | token/s | NPU Memory(MB) |
+|-------|---------|---------|----------------|
+| qwen2.5-0.5B | 0.5 | 11.17 | 524 |
+| qwen2.5-1.5B | 1.5 | 3.61 | 1602 |
+| llama3.2-1B | 1 | 4.48 | 1269 |
+| openbuddy-llama3.2-1B | 1 | 4.59 | 1269 |
+| deepseek-r1-1.5B-ax630c | 1.5 | 3.6 | 1603 |
+| TinySwallow-1.5B | 1.5 | 3.63 | 1602 |
+| llm-jp-3-150m-instruct3 | 0.15 | 37.11 | 136 |
+| llm-jp-3-440m-instruct3 | 0.44 | 13.11 | 442 |
+| llm-jp-3-980m-instruct3 | 0.98 | 7.22 | 823 |
+
+
 
 ## Model Convert
 
