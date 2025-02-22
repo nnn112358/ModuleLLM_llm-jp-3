@@ -1,5 +1,9 @@
 # ModuleLLM_llm-jp-3
 
+## abst
+https://llm-jp.nii.ac.jp/blog/2025/02/05/instruct3.html
+
+
 ## Result
 
 M5Stack Module-LLM(ax630c)
