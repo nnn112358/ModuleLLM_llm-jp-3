@@ -17,7 +17,7 @@ M5Stack Module-LLM(ax630c)
 | llm-jp-3-150m-instruct3 | 0.15 | 37.11 | 136 |
 | llm-jp-3-440m-instruct3 | 0.44 | 13.11 | 442 |
 | llm-jp-3-980m-instruct3 | 0.98 | 7.22 | 823 |
-| llm-jp-3-980m-instruct3 | 1.8| 3.18 | 1900 |
+| llm-jp-3-1.8b-instruct3 | 1.8| 3.18 | 1900 |
 
 
 
