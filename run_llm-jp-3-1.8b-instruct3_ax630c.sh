@@ -1,6 +1,6 @@
 ./main_prefill \
 --template_filename_axmodel "llm-jp-3-1.8b-instruct3-AX620E/llama_p128_l%d_together.axmodel" \
---axmodel_num 16 \
+--axmodel_num 24 \
 --tokenizer_type 2 \
 --filename_tokenizer_model "http://localhost:8080" \
 --bos 0 --eos 0 \
