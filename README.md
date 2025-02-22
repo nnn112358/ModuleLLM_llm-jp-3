@@ -4,6 +4,8 @@
 
 M5Stack Module-LLM(ax630c)
 
+![GkWfeW-bcAA2mI0](https://github.com/user-attachments/assets/20e540cc-a459-4132-be23-9195e8210515)
+
 | モデル | Billion | token/s | NPU Memory(MB) |
 |-------|---------|---------|----------------|
 | qwen2.5-0.5B | 0.5 | 11.17 | 524 |
@@ -15,6 +17,7 @@ M5Stack Module-LLM(ax630c)
 | llm-jp-3-150m-instruct3 | 0.15 | 37.11 | 136 |
 | llm-jp-3-440m-instruct3 | 0.44 | 13.11 | 442 |
 | llm-jp-3-980m-instruct3 | 0.98 | 7.22 | 823 |
+| llm-jp-3-980m-instruct3 | 1.8| 3.18 | 1900 |
 
 
 
